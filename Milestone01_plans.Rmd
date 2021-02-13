@@ -1,0 +1,10 @@
+---
+title: "Mental Health in Pandemic"
+output: html_document
+author: Patricia Lai
+---
+
+## Current thoughts/ideas/plans
+
+I plan to study mental health in COVID19 Pandemic. I am particularly interested in understanding how pandemic has changed people's mental status. I've found some datasets related to mental health, including a dataset that discuss the mental health search terms in COVID-19 and how much is the world's concern about mental health affected by the pandemic.
+https://www.kaggle.com/luckybro/mental-health-search-term
